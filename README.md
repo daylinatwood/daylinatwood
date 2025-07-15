@@ -3,8 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 I'm Daylin, an incoming law student focused on privacy, data protection, and the future of tech policy.👩‍🎓</div>  
-  
+### <div align="left">👋 I'm Daylin, an incoming law student focused on privacy, data protection, and the future of tech policy.👩‍🎓</div>  
 
 🧠 I'm currently studying Political Science + Computer Science @ Cal Poly SLO  
   
@@ -20,21 +19,13 @@
 
 🌐 Ask me about global politics and overseas surveillance  
   
-
-<br/>  
+<br/>
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
-
-
-</td><td valign="top" width="100%">
-
-
 
 ### Programming
-<p align="center">
+<p align="left">
   <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin:10px"/></a>
   <a href="https://www.mysql.com/"  target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin:10px"/></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" style="margin:10px"/></a>
@@ -44,7 +35,7 @@
 </p>
 
 ### Design
-<p align="center">
+<p align="left">
   <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" style="margin:10px"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" style="margin:10px"/></a>
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="InDesign" height="50" style="margin:10px"/></a>
@@ -53,22 +44,14 @@
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" style="margin:10px"/></a>
 </p>
 
-
-
 </td></tr></table>  
 
 <br/>  
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/daylinatwood" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/daylin-atwood" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<p align="center">
+  <a href="https://github.com/daylinatwood" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" /></a>
+  <a href="https://linkedin.com/in/daylin-atwood" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+</p>
   
-
-<br/>  
