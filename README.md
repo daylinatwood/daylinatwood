@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="left">👋 I'm Daylin, an incoming law student focused on privacy, data protection, and the future of tech policy.👩‍🎓</div>  
+### <div align="left">👋 I'm Daylin, an incoming law student focused on privacy, data protection, and the future of tech policy.</div>  
 
 🧠 I'm currently studying Political Science + Computer Science @ Cal Poly SLO  
   
