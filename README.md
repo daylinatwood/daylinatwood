@@ -45,13 +45,3 @@
 </p>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<p align="left">
-  <a href="https://github.com/daylinatwood" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" /></a>
-  <a href="https://linkedin.com/in/daylin-atwood" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
-</p>
-  
