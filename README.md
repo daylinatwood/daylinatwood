@@ -12,12 +12,7 @@
   
 
 📚 Background in UX, tech ethics, and public policy  
-  
 
-⚖️ Exploring how legal systems adapt (or don’t) to emerging technologies  
-  
-
-🌐 Ask me about global politics and overseas surveillance  
   
 <br/>
 
